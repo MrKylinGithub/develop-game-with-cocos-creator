@@ -22,3 +22,6 @@ However, the following points need to be noted when publishing your game as Goog
 
 3. Before compiling in Android Studio, developers should also have downloaded and installed Google Play Instant Development SDK (for Windows) or Instant Apps Development SDK (for Mac.) If downloads were unsuccessful, it may be required to set up HTTP proxies for Android Studio.
 ![](https://files.mdnice.com/user/21366/d07b97fb-2670-4916-b12b-023ae1d8db42.png)
+
+## Contact us
+If you have any questions, feel free to contact us at bd_global@cocos.com

@@ -18,3 +18,6 @@ To perform remote code debugging on physical devices. Just follow the 3 steps li
 ![](https://files.mdnice.com/user/21366/db7bae9c-ebb1-4447-9bba-17f0e4101ebe.png)
 
 For more detailed instructions, you can take a look at [the official documentation](https://docs.cocos.com/creator/manual/en/editor/publish/debug-jsb.html).
+
+## Contact us
+If you have any questions, feel free to contact us at bd_global@cocos.com

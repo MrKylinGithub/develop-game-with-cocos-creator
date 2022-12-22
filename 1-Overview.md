@@ -32,3 +32,6 @@ To use Cocos Creator to build your game for Android platform, please follow the 
 1. [Publish your game as Google Play Instant app in Cocos Creator](./2-PublishAsGooglePlayInstant.md)
 2. [Publish your game with the Android App Bundle in Cocos Creator](./3-PublishWithAAB.md)
 3. [Remote Debugging your game on Android](./4-RemoteDebugging.md)
+
+## Contact us
+If you have any questions, feel free to contact us at bd_global@cocos.com

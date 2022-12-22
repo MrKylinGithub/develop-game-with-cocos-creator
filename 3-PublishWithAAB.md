@@ -11,3 +11,6 @@ Google Play uses your app bundle to generate and serve optimized APKs for each d
 In Cocos Creator, just check the **Generate App Bundle(Google Play)** option in the Android Build panel. Your game will then be published with the ABB format.
 
 ![](https://files.mdnice.com/user/21366/1d8c4266-9d17-4261-8dbc-98a7db417f6f.png)
+
+## Contact us
+If you have any questions, feel free to contact us at bd_global@cocos.com
