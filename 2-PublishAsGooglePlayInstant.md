@@ -24,4 +24,4 @@ However, the following points need to be noted when publishing your game as Goog
 ![](https://files.mdnice.com/user/21366/d07b97fb-2670-4916-b12b-023ae1d8db42.png)
 
 ## Contact us
-If you have any questions, feel free to contact us at bd_global@cocos.com
+If you have any questions, feel free to contact us at [https://www.cocos.com/en/assistant](https://www.cocos.com/en/assistant)

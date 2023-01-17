@@ -13,4 +13,4 @@ In Cocos Creator, just check the **Generate App Bundle(Google Play)** option in 
 ![](https://files.mdnice.com/user/21366/1d8c4266-9d17-4261-8dbc-98a7db417f6f.png)
 
 ## Contact us
-If you have any questions, feel free to contact us at bd_global@cocos.com
+If you have any questions, feel free to contact us at [https://www.cocos.com/en/assistant](https://www.cocos.com/en/assistant)

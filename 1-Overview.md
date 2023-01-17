@@ -34,4 +34,4 @@ To use Cocos Creator to build your game for Android platform, please follow the 
 3. [Remote Debugging your game on Android](./4-RemoteDebugging.md)
 
 ## Contact us
-If you have any questions, feel free to contact us at bd_global@cocos.com
+If you have any questions, feel free to contact us at [https://www.cocos.com/en/assistant](https://www.cocos.com/en/assistant)
